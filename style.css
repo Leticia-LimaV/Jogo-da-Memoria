@@ -68,6 +68,6 @@ body {
     cursor: pointer;
 }
 
-#botaoReiniciar {
+#botaoReiniciar:hover {
     background-color: #45a049;
 }
